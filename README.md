@@ -1,7 +1,6 @@
 # olá, mundo!
- meu primeiro repositório 
-
- da pra mexer direto do site! uau
-
-**alo**
-*tchau*
+## meu primeiro repositório 
+### testando coisas
+**negrito**
+*italico*
+~~riscado~~
